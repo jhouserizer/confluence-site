@@ -241,7 +241,35 @@ The Terracotta 11.1 release builds upon the enterprise readiness features and an
   * Internal maintenance items
 * Security Updates to Third Party Libraries
   * Update docker base image version
-  * 
+
+### 11.1.0.18
+* Release Date: 2026/07/10
+* Resolved
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * Update docker base image version 
+  * micrometer to 1.16.6
+  * jakarta-annotation to 6.0
+  * logback to 1.5.34
+  * jackson to 2.18.8
+  * commons-logging to 1.3.6
+  * prometheus to 1.4.3
+  * smallrye to 2.14.0
+  * undertow-core to 2.4.0.Final
+  * jakarta.annotation-api to 3.0.0
+  * jakarta.servlet-api to 6.1.0
+  * jakarta.validation-api to 3.1.1
+  * jakarta.websocket to 2.2.0
+  * json-smart to 2.6.0
+  * Apache Calcite Avatica to 1.28.0
+  * Apache Calcite to 1.42.0
+  * wildfly-common to 2.0.1
+  * snakeyaml to 2.5
+  * Spring Boot to 4.0.7
+  * Spring Security to 7.0.6
+  * Spring Framework to 7.0.8
+  * [TDB-20095] Spring Boot 4.0.7 with Spring 7.0.8
+
 <!-- Next entrypoint --> 
 
 <br>
