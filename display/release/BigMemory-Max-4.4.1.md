@@ -225,7 +225,18 @@ BigMemory Max 4.4.1 introduced the following new capabilities:
   * Update docker base image version 
   * [TAB-10016] Implicitly whitelist local connections through the Jetty handler
   * [TAB-10020] [4.4.1] Update logback to 1.5.34 due to CVE-2026-10532, CVE-2026-9828
-  
+
+### 4.4.1.17
+* Release Date: 2026/07/10
+* Resolved
+  * Internal maintenance items.
+* Security Updates to Third Party Libraries
+  * Update docker base image version 
+  * [TAB-10016] Implicitly whitelist local connections through the Jetty handler
+  * [TAB-10020] [4.4.1] Update logback to 1.5.34 due to CVE-2026-10532, CVE-2026-9828
+  * [TAB-10031] Update shiro to 2.2.1 due to CVE-2026-43827, CVE-2026-43828, CVE-2026-44598, CVE-2026-48589
+ 
+
 <!-- Next entrypoint --> 
 
 <br>
