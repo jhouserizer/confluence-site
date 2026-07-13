@@ -376,6 +376,12 @@ The Terracotta 10.11 release builds upon the enterprise readiness features and a
 * Security Updates to Third Party Libraries
   * Update docker base image version
 
+### 10.11.0.39
+* Release Date: 2026/07/13
+* Resolved
+  * Internal maintenance items.
+* Security Updates to Third Party Libraries
+  * Update docker base image version
 
 <!-- Next entrypoint --> 
 
