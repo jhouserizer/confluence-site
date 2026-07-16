@@ -77,6 +77,13 @@ The Terracotta 12.1 release builds upon the enterprise readiness features and an
   * Spring Security to 7.0.5
   * Spring to 7.0.7
 
+### 12.1.0.2
+* Release Date: 2026/07/16
+* Resolved
+  * Internal maintenance items.
+* Security Updates to Third Party Libraries
+  * Update docker base image version
+
 
 <!-- Next entrypoint --> 
 
