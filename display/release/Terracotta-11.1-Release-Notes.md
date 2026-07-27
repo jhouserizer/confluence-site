@@ -270,6 +270,15 @@ The Terracotta 11.1 release builds upon the enterprise readiness features and an
   * Spring Framework to 7.0.8
   * [TDB-20095] Spring Boot 4.0.7 with Spring 7.0.8
 
+### 11.1.0.19
+* Release Date: 2026/07/24
+* Resolved
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * Update docker base image version 
+  * [TDB-21021] Update jackson-databind due to CVE-2026-54512, CVE-2026-54513, CVE-2026-54514, CVE-2026-54515
+  * jackson to 2.18.9
+
 <!-- Next entrypoint --> 
 
 <br>
