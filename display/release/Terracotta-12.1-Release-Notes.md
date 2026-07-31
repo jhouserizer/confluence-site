@@ -84,6 +84,13 @@ The Terracotta 12.1 release builds upon the enterprise readiness features and an
 * Security Updates to Third Party Libraries
   * Update docker base image version
 
+### 12.1.0.3
+* Release Date: 2026/07/31
+* Resolved
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * Update base docker image version
+  * jackson to 2.21.5
 
 <!-- Next entrypoint --> 
 
