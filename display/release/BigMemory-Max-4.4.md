@@ -347,6 +347,19 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
   * [TAB-10021] [4.4.0] Update logback to 1.5.34 due to CVE-2026-10532, CVE-2026-9828
   * [TAB-10031] Update shiro to 2.2.0 due to CVE-2026-43827, CVE-2026-43828, CVE-2026-44598, CVE-2026-48589
 
+### 4.4.0.29
+* Release Date: 2026/07/31
+* Resolved
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * Update base docker image version 
+  * [TAB-10031] Update shiro to 2.2.1 due to CVE-2026-43827, CVE-2026-43828, CVE-2026-44598, CVE-2026-48589
+  * [TAB-10051] Update jackson-databind due to CVE-2026-54512, CVE-2026-54513, CVE-2026-54514, CVE-2026-54515
+  * [TAB-10099] Upgrade Jetty due to CVE-2026-6790, CVE-2026-8384
+  * jetty to 12.0.37
+  * shiro to 2.2.1
+  * jackson-databind to 2.21.5
+
 <!-- Next entrypoint -->  
 <br>
 
