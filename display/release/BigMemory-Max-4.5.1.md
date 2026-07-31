@@ -66,8 +66,16 @@ BigMemory Max 4.5.1 introduced the following new capabilities:
   * [TAB-10051] Update jackson-databind due to CVE-2026-54512, CVE-2026-54513, CVE-2026-54514, CVE-2026-54515  
   * shiro to 2.2.1
   * jackson-databind to 2.21.5
- 
-    
+
+### 4.4.5.3
+* Release Date: 2026/07/31
+* Resolved
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * Update base docker image version 
+  * [TAB-10099] Upgrade Jetty due to CVE-2026-6790, CVE-2026-8384
+  * jetty to 12.0.37
+	
 <!-- Next entrypoint --> 
 
 <br>
