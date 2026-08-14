@@ -13,7 +13,7 @@ BigMemory Max delivers ultrafast access to hundreds of terabytes of in-memory da
 
 BigMemory Max supports a distributed in-memory data-storage topology, which enables the sharing of data among multiple caches and in-memory data stores in multiple JVMs. It uses a Terracotta Server Array to manage data that is shared by multiple application nodes in a cluster.
 
-The Ehcache 2.12.1.x API can be used with BigMemory Max 4.4.1.x as a general-purpose cache/in-memory data store or a second-level cache for Hibernate. You can additionally integrate it with third-party products such as Google App Engine, Spring, and others.
+The Ehcache 2.12.1.x API can be used with BigMemory Max 4.5.1.x as a general-purpose cache/in-memory data store or a second-level cache for Hibernate. You can additionally integrate it with third-party products such as Google App Engine, Spring, and others.
 
 ------
 
@@ -45,9 +45,9 @@ BigMemory Max 4.5.1 introduced the following new capabilities:
 
 <br>
 
-# Summary of Changes 4.4.5.1
+# Summary of Changes 4.5.1.1
 -----------------------
-### 4.4.5.1
+### 4.5.1.1
 * Release Date: 2026/06/22
 * Resolved
   * Internal maintenance items
@@ -56,7 +56,7 @@ BigMemory Max 4.5.1 introduced the following new capabilities:
   * [TAB-10019] [4.4.0] Update logback to 1.5.34 due to CVE-2026-10532, CVE-2026-9828  
   * [TAB-10031] Update shiro to 2.2.0 due to CVE-2026-43827, CVE-2026-43828, CVE-2026-44598, CVE-2026-48589
 
-### 4.4.5.2
+### 4.5.1.2
 * Release Date: 2026/07/16
 * Resolved
   * Internal maintenance items
@@ -67,7 +67,7 @@ BigMemory Max 4.5.1 introduced the following new capabilities:
   * shiro to 2.2.1
   * jackson-databind to 2.21.5
 
-### 4.4.5.3
+### 4.5.1.3
 * Release Date: 2026/07/31
 * Resolved
   * Internal maintenance items
@@ -75,6 +75,14 @@ BigMemory Max 4.5.1 introduced the following new capabilities:
   * Update base docker image version 
   * [TAB-10099] Upgrade Jetty due to CVE-2026-6790, CVE-2026-8384
   * jetty to 12.0.37
+
+### 4.5.1.4
+* Release Date: 2026/08/13
+* Resolved
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * Update base docker image version 
+  * [TAB-10184] Update logback to 1.5.38
 	
 <!-- Next entrypoint --> 
 
