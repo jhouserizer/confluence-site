@@ -360,6 +360,14 @@ BigMemory Max 4.4.0 introduced the following new capabilities:
   * shiro to 2.2.1
   * jackson-databind to 2.21.5
 
+### 4.4.0.30
+* Release Date: 2026/08/17
+* Resolved
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * Update base docker image version 
+  * [TAB-10184] Update logback to 1.5.38  
+
 <!-- Next entrypoint -->  
 <br>
 
