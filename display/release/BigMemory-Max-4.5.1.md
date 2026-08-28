@@ -83,7 +83,16 @@ BigMemory Max 4.5.1 introduced the following new capabilities:
 * Security Updates to Third Party Libraries
   * Update base docker image version 
   * [TAB-10184] Update logback to 1.5.38
-	
+
+### 4.5.1.5
+* Release Date: 2026/08/28
+* Resolved
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * Update base docker image version 
+  * [TAB-10193] Update bcprov-jdk18on to latest (1.85.2)
+  * bcprov-jdk18on to 1.85.2
+ 
 <!-- Next entrypoint --> 
 
 <br>
