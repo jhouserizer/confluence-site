@@ -488,6 +488,18 @@ The Terracotta 10.15 release builds upon the enterprise readiness features and a
   * Update base docker image version 
   * Update logback to 1.5.38
 
+### 10.15.0.38
+* Release Date: 2026/08/28
+* Resolved
+  * Internal maintenance items
+* Security Updates to Third Party Libraries
+  * Update base docker image version 
+  * jackson-annotations to 2.22
+  * jackson-core to 2.22.1
+  * jackson-databind to 2.22.1
+  * aircompressor to 2.0.3
+  * Parquet avro to 1.18.0
+
 <!-- Next entrypoint --> 
 
 <br>
